@@ -1,0 +1,2 @@
+nombres decimaux:6,28 
+en nombres binaire:6->110 28->1100
